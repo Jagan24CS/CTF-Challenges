@@ -1,0 +1,8 @@
+Challenge Name : Layered Secrets
+
+Description :
+
+We intercepted a secret message encrypted using a mysterious technique, but the key is not directly given.
+However, we noticed something — We know the flag format right?.
+
+Can you crack the cipher, recover the key, and reveal the flag?

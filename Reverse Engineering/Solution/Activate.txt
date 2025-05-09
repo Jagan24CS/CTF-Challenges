@@ -1,0 +1,2 @@
+Key : UnlockTheSecrets2025
+Flag : CnC{activation_successful}

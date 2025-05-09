@@ -1,0 +1,5 @@
+You've discovered a mysterious binary that seems to protect a premium product. In order to use it, you'll need to enter the correct activation key. However, the key isn’t given—it's hidden inside the binary itself using a simple encryption method.
+
+Your task: Reverse engineer the binary to uncover the valid activation key and activate the product successfully to retrieve the flag.
+
+Flag Format: CnC{...}
