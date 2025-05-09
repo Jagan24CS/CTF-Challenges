@@ -1,2 +1,2 @@
 # CTF-Challenges
-Contains Simple Reverse Engineering and Cryptography challenge designed by me for conducting workshops
+Contains Simple a Reverse Engineering, Cryptography and a Forensic challenge designed by me for beginners for conducting workshops to understand core concepts.
