@@ -1,0 +1,12 @@
+Fake Flag:{DUMMY_84V4}
+Hex:7b 44 55 4d 4d 59 5f 38 34 56 34 7d
+Hex:37 62 20 34 34 20 35 35 20 34 64 20 34 64 20 35 39 20 35 66 20 33 38 20 33 34 20 35 36 20 33 34 20 37 64
+Base64:MzcgNjIgMjAgMzQgMzQgMjAgMzUgMzUgMjAgMzQgNjQgMjAgMzQgNjQgMjAgMzUgMzkgMjAgMzUgNjYgMjAgMzMgMzggMjAgMzMgMzQgMjAgMzUgMzYgMjAgMzMgMzQgMjAgMzcgNjQ=
+
+Real Flag: {17H44N_F149UH}
+Vigenère(E):{17L44R_J149YL}
+Hex:7b 31 37 4c 34 34 52 5f 4a 31 34 39 59 4c 7d
+
+Decryption/Decoding Flow:
+Fake flag:Base64->Hex->Hex
+Real flag:Hex->Vignere

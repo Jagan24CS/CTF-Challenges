@@ -1,0 +1,7 @@
+sudo testdisk disk.img
+No Partition
+Advanced 
+FAT32
+Undelete
+Copy to physical disk
+Flag: CnC{R3C0V3R3D_M3_F1N411Y}
